@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+.container{
+  height: 800px;
+  width:473px;
+  border: 2px solid khaki;
+  margin: 60px auto;
+  background-color: white;
+  box-shadow: 0px 0px 78px -22px #000000;
+}
+.back {
+  float: left;
+  margin: 68px 0 0 70px;
+}
+.search {
+  float: right;
+  margin: 68px 70px 0 0;
+}
+div.clear {
+  clear:both;
+}
+.picture {
+  text-align: center;
+}
+.picture img {
+  margin-top: -5px;
+  border: 5px solid khaki;
+  border-radius:200px;
+  box-shadow: 0px 18px 40px -20px #000000;
+}
+div.info {
+  color: darkkhaki;
+  text-align:center;
+  margin-top: 30px;
+}
+.head-2 {
+  margin-top: 50px;
+  font-weight: 200;
+}
+
+.value {
+  margin-top:15px;
+}
+
+.value span.left {
+  width:33%;
+  float:left;
+  margin-left: 40px;
+  
+}
+.value span.right {
+  width:33%;
+  float: right;
+  margin-right:40px;
+}
+.value span.center {
+  width:80px;
+  float: left;
+}
+.value span.right,
+.value span.center,
+.value span.left {
+    font-size:5em;
+}
+.head-2-1 {
+  margin-top: 35px;
+  font-weight:200;
+}
+span.foot {
+  font-weight:700;
+  font-size: 1.55em;
+}
+
+.button {
+  background-color:khaki;
+  color:white;
+  width:320px;
+  height:80px;
+  box-shadow: 0px 17px 57px -17px #000000;
+  margin: 0 auto;
+  text-align:center;
+  margin-top:70px;
+}
+div.button p {
+  padding-top:28px;
+  font-size:1.3em;
+}

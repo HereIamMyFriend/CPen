@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  background-color:#4D515E;
+}
+a {
+  text-decoration:none;
+  color:black;
+  font-family: 'Lato', sans-serif;
+}
+.uppercase {
+  text-transform:uppercase;
+  font-family: 'Lato', sans-serif;
+}
+.member {
+  font-family: 'Raleway', sans-serif;
+  font-size:3em;
+  color:#38393E;
+}
+.silver-text {
+  color: #BEC4CE;
+}
+.container {
+  position:relative;
+  max-width:1210px;
+  height:900px;
+  margin:100px auto;
+}
+.info {
+  position:absolute;
+  left:0;
+  width:775px;
+  height:870px;
+  background-color:white;
+  border-radius:10px 0 0 10px;
+  
+}
+.picture {
+  margin-left:775px;
+  
+}
+.picture img{
+  border-radius: 0 10px 10px 0;
+  height:870px;
+  width:435px;
+}
+.info .eternal {
+  padding:100px 155px 0 90px;
+}
+.lorem{
+  margin-bottom:60px;
+  line-height:2;
+}
+.google,
+.facebook,
+.twitter {
+  width:530px;
+  height:85px;
+  border: 1px solid silver;
+  border-radius:10px;
+  margin-top:20px;
+  text-align:center;
+}
+.google img,
+.facebook img,
+.twitter img{
+  margin: 20px 40px;
+  float:left;
+}
+.google:hover,
+.facebook:hover,
+.twitter:hover{
+   border: 1px solid white;
+  box-shadow: 0px 9px 48px -11px #000000;
+}
+div.clear {
+  clear:both;
+}
+p.button {
+  padding-top:16px;
+  padding-right:30px; 
+  font-weight:bold;
+  color:grey;
+}
+hr {
+  margin: 80px 0px 0 0px;
+}
+div.footer {
+  
+  width:100%;
+}
+.block {
+   display:inline-block;
+   margin: 30px 0 0 130px;
+}
+div.footer img {
+  vertical-align:middle;
+  margin-top:-5px;
+}
+.green-text{
+  color:	yellowgreen;
+  font-size:0.8em;
+}
+div.eternal p:first-child {
+  font-size:13px;
+  font-family: 'Raleway', sans-serif;
+}
