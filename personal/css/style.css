@@ -1,0 +1,18 @@
+body {
+  margin-top:20px;
+  background-color: lightgrey; 
+}
+.btn-success {
+  background-color:purple;
+  border-color:purple;
+}
+.btn-success:hover {
+  background-color:#563c5c;
+  border-color:#563c5c;
+}
+.heading {
+  font-family: 'Fjalla One', sans-serif;
+}
+.parag {
+  margin-top:20px;
+}
